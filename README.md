@@ -1,5 +1,7 @@
 # Project Name
 
+![Untitled design](https://github.com/user-attachments/assets/77ed6ca7-5c3f-416e-b94b-034d17115c0c)
+
 ## Description
 This project contains various CSS, HTML, and JavaScript files for a web application.
 
