@@ -1,3 +1,10 @@
+/*
+ * Nice Select CSS
+ * This stylesheet defines the appearance and behavior of the custom select dropdown.
+ * It includes styles for the select container, dropdown list, options, and various states.
+ * The styles provide a consistent look across different browsers and devices.
+ */
+
 .nice-select {
     -webkit-tap-highlight-color: transparent;
     background-color: #fff;
@@ -136,4 +143,3 @@
   
   .no-csspointerevents .nice-select.open .list {
     display: block; }
-  

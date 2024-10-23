@@ -1,3 +1,24 @@
+/*
+ * Magnific Popup CSS
+ * 
+ * This file contains styles for the Magnific Popup lightbox plugin.
+ * It defines the appearance and behavior of popup elements, including
+ * the overlay, container, content, navigation arrows, and close button.
+ * 
+ * The styles provide a responsive and customizable lightbox experience
+ * for displaying images, videos, and other content in a modal overlay.
+ * 
+ * Key features:
+ * - Overlay background and opacity
+ * - Centered content positioning
+ * - Navigation arrows and close button
+ * - Responsive design for various screen sizes
+ * - Customizable animations and transitions
+ * 
+ * For full documentation and usage instructions, visit:
+ * https://dimsemenov.com/plugins/magnific-popup/
+ */
+
 /* Magnific Popup CSS */
 .mfp-bg {
     top: 0;
@@ -349,4 +370,3 @@
     .mfp-container {
       padding-left: 6px;
       padding-right: 6px; } }
-  

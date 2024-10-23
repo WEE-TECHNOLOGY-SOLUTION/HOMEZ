@@ -1,3 +1,20 @@
+/*
+ * Mobile Menu Plugin
+ * 
+ * This plugin creates a responsive mobile menu with the following features:
+ * - Toggle mobile sidebar
+ * - Dropdown functionality for submenus
+ * - Customizable menu format and sticky option
+ * 
+ * Usage:
+ * $('.mobile-nav').menumarker({
+ *   format: "multitoggle",
+ *   sticky: false
+ * });
+ * 
+ * Dependencies: jQuery
+ */
+
 ;(function($) {
 
   $(document).ready(function() {
@@ -83,4 +100,3 @@
 
 
 })(jQuery);
-

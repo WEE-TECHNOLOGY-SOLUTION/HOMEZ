@@ -1,4 +1,12 @@
 /* Slider */
+/* 
+   Slick Slider CSS
+   This file contains styles for the Slick Slider plugin.
+   It defines the layout and behavior of slider elements,
+   including the main container, list, track, and individual slides.
+   The styles also handle user interactions and responsive behavior.
+*/
+
 .slick-slider
 {
     position: relative;

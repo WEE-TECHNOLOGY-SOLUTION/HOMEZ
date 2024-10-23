@@ -1,3 +1,20 @@
+/*
+ * Main JavaScript file for the website
+ * This file contains various jQuery and JavaScript functions for:
+ * - Header functionality
+ * - Sidebar and search area
+ * - Page progress indicator
+ * - Video popup
+ * - Counters
+ * - Sliders and carousels
+ * - Text animations
+ * - Image reveal animations
+ * - And other interactive elements
+ *
+ * The code uses jQuery, GSAP, and other libraries for animations and functionality.
+ * It's organized into sections for different features and page elements.
+ */
+
 ;(function($){
 
   $(document).ready(function(){
